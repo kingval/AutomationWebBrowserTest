@@ -1,10 +1,9 @@
-package A;
+package SeleniumConcepts;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 
-public class WebDriverTestEdge {
+public class A_WebDriverTestEdge {
 
     public static void main(String[] args) throws InterruptedException {
 

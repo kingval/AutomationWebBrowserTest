@@ -1,9 +1,9 @@
-package A;
+package SeleniumConcepts;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class WebDriverTestFirefox {
+public class A_WebDriverTestFirefox {
 
     public static void main(String[] args) throws InterruptedException {
 
